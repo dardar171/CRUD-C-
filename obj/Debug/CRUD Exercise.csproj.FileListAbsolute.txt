@@ -1,0 +1,10 @@
+D:\myprojects\C# Basic\CRUD Exercise\bin\Debug\CRUD Exercise.exe.config
+D:\myprojects\C# Basic\CRUD Exercise\bin\Debug\CRUD Exercise.exe
+D:\myprojects\C# Basic\CRUD Exercise\bin\Debug\CRUD Exercise.pdb
+D:\myprojects\C# Basic\CRUD Exercise\obj\Debug\CRUD Exercise.csprojAssemblyReference.cache
+D:\myprojects\C# Basic\CRUD Exercise\obj\Debug\CRUD_Exercise.Form1.resources
+D:\myprojects\C# Basic\CRUD Exercise\obj\Debug\CRUD_Exercise.Properties.Resources.resources
+D:\myprojects\C# Basic\CRUD Exercise\obj\Debug\CRUD Exercise.csproj.GenerateResource.cache
+D:\myprojects\C# Basic\CRUD Exercise\obj\Debug\CRUD Exercise.csproj.CoreCompileInputs.cache
+D:\myprojects\C# Basic\CRUD Exercise\obj\Debug\CRUD Exercise.exe
+D:\myprojects\C# Basic\CRUD Exercise\obj\Debug\CRUD Exercise.pdb
